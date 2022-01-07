@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
 <h3 align="center">A Mechatronics Engineer and Software Developer from Turkey</h3>
 
-- 🌱 I’m currently learning Java, Go
+- 🌱 I’m currently learning Flutter, Java, Go
 - Sometimes i write stories on [Medium](https://baran-alhas.medium.com/)
+- Here is my [HackerRank](https://hackerrank.com/baranalhas) account. I will solve problems if I do not forget 😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
