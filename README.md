@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
-<h3 align="center">A Mechatronics Engineer and Software Developer from Turkey</h3>
+<h3 align="center">A Mechatronics Engineer and Software Developer</h3>
 
 - 🌱 I’m currently learning Flutter, Java, Go
 - Sometimes i write stories on [Medium](https://baran-alhas.medium.com/)
