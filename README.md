@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
 <h3 align="center">A Mechatronics Engineer and Software Developer</h3>
 
-- 🌱 I’m currently learning Flutter, NodeJS, Go
+- 🌱 I’m currently learning JS
 - Sometimes i write stories on [Medium](https://baran-alhas.medium.com/)
 - Here is my [HackerRank](https://hackerrank.com/baranalhas) account. I will solve problems if I do not forget 😂
 
