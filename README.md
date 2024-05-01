@@ -4,7 +4,7 @@
 - 🌱 Currently I'm improving myself on Python
 - Sometimes I write stories on [Medium](https://baranalhas.medium.com/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/baranalhas/" target="blank"><img align="center" src="https://camo.githubusercontent.com/f117fe3f3da1b19d4f774ba4fc6326e78d9d3840599b7b9607eb3270593713c4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66382f4c696e6b6564496e5f69636f6e5f636972636c652e7376672f3230343870782d4c696e6b6564496e5f69636f6e5f636972636c652e7376672e706e67" alt="baranalhas" height="30" width="30" /></a>
 <a href="https://baran-alhas.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@baran_alhas" height="30" width="40" /></a>
