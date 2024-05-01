@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
 <h3 align="center">A Mechatronics Engineer and Software Developer</h3>
 
-- 🌱 I’m currently learning JS
-- Sometimes i write stories on [Medium](https://baran-alhas.medium.com/)
-- Here is my [HackerRank](https://hackerrank.com/baranalhas) account. I will solve problems if I do not forget 😂
+- 🌱 Currently I'm improving myself on Python
+- Sometimes I write stories on [Medium](https://baranalhas.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
